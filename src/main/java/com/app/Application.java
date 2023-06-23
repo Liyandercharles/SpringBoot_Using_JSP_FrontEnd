@@ -8,7 +8,7 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 import org.springframework.context.annotation.ComponentScan;
 
 
-
+// TEST
 
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
